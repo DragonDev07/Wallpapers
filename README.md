@@ -22,6 +22,7 @@
 <img src="./minimal/mocha-saturn.jpg" title="mocha-saturn"><br>
 <img src="./minimal/errorMocha.jpg" title="errorMocha"><br>
 <img src="./minimal/dark-cat.png" title="dark-cat"><br>
+<img src="./minimal/catppuccin-mocha-logo.png" title="catppuccin-mocha-logo"><br>
 </details>
 
 
