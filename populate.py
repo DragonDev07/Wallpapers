@@ -1,7 +1,7 @@
 from email.mime import image
 import os
 
-image_folders = ["digital-art", "minimal", "pixel-art"]
+image_folders = ["digital-art", "minimal", "pixel-art", "lakeside"]
 image_folders.sort()
 print(image_folders)
 

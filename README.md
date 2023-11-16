@@ -16,6 +16,15 @@
 </details>
 
 
+## lakeside
+<details><summary></summary>
+<img src="./lakeside/lakeside-6.png" title="lakeside-6"><br>
+<img src="./lakeside/lakeside-10.png" title="lakeside-10"><br>
+<img src="./lakeside/lakeside-14.png" title="lakeside-14"><br>
+<img src="./lakeside/lakeside-15.png" title="lakeside-15"><br>
+</details>
+
+
 ## minimal
 <details><summary></summary>
 <img src="./minimal/desertNight.png" title="desertNight"><br>
@@ -23,6 +32,7 @@
 <img src="./minimal/errorMocha.jpg" title="errorMocha"><br>
 <img src="./minimal/dark-cat.png" title="dark-cat"><br>
 <img src="./minimal/catppuccin-mocha-logo.png" title="catppuccin-mocha-logo"><br>
+<img src="./minimal/saturn-macchiato.jpg" title="saturn-macchiato"><br>
 </details>
 
 
