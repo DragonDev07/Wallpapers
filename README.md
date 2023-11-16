@@ -13,6 +13,7 @@
 <img src="./digital-art/bird-statue-on-mountain.jpg" title="bird-statue-on-mountain"><br>
 <img src="./digital-art/pink-temple-in-forest.jpg" title="pink-temple-in-forest"><br>
 <img src="./digital-art/tranquility.jpg" title="tranquility"><br>
+<img src="./digital-art/gray-temple-wallpaper.jpg" title="gray-temple-wallpaper"><br>
 </details>
 
 
