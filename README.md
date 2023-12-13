@@ -5,36 +5,36 @@
 
 ## digital-art
 <details><summary></summary>
-<img src="./digital-art/koiMoon.jpg" title="koiMoon"><br>
-<img src="./digital-art/lostBetween.jpg" title="lostBetween"><br>
-<img src="./digital-art/stardust.jpg" title="stardust"><br>
-<img src="./digital-art/spaceBlackHoleThing.jpg" title="spaceBlackHoleThing"><br>
-<img src="./digital-art/ancient-temple-valley.jpg" title="ancient-temple-valley"><br>
-<img src="./digital-art/bird-statue-on-mountain.jpg" title="bird-statue-on-mountain"><br>
-<img src="./digital-art/pink-temple-in-forest.jpg" title="pink-temple-in-forest"><br>
-<img src="./digital-art/tranquility.jpg" title="tranquility"><br>
 <img src="./digital-art/gray-temple-wallpaper.jpg" title="gray-temple-wallpaper"><br>
+<img src="./digital-art/tranquility.jpg" title="tranquility"><br>
+<img src="./digital-art/ancient-temple-valley.jpg" title="ancient-temple-valley"><br>
+<img src="./digital-art/spaceBlackHoleThing.jpg" title="spaceBlackHoleThing"><br>
 <img src="./digital-art/Harmony-KDE.jpg" title="Harmony-KDE"><br>
+<img src="./digital-art/pink-temple-in-forest.jpg" title="pink-temple-in-forest"><br>
+<img src="./digital-art/stardust.jpg" title="stardust"><br>
+<img src="./digital-art/koiMoon.jpg" title="koiMoon"><br>
+<img src="./digital-art/bird-statue-on-mountain.jpg" title="bird-statue-on-mountain"><br>
+<img src="./digital-art/lostBetween.jpg" title="lostBetween"><br>
 </details>
 
 
 ## lakeside
 <details><summary></summary>
-<img src="./lakeside/lakeside-6.png" title="lakeside-6"><br>
 <img src="./lakeside/lakeside-10.png" title="lakeside-10"><br>
-<img src="./lakeside/lakeside-14.png" title="lakeside-14"><br>
 <img src="./lakeside/lakeside-15.png" title="lakeside-15"><br>
+<img src="./lakeside/lakeside-14.png" title="lakeside-14"><br>
+<img src="./lakeside/lakeside-6.png" title="lakeside-6"><br>
 </details>
 
 
 ## minimal
 <details><summary></summary>
-<img src="./minimal/desertNight.png" title="desertNight"><br>
-<img src="./minimal/mocha-saturn.jpg" title="mocha-saturn"><br>
 <img src="./minimal/errorMocha.jpg" title="errorMocha"><br>
-<img src="./minimal/dark-cat.png" title="dark-cat"><br>
-<img src="./minimal/catppuccin-mocha-logo.png" title="catppuccin-mocha-logo"><br>
+<img src="./minimal/desertNight.png" title="desertNight"><br>
 <img src="./minimal/saturn-macchiato.jpg" title="saturn-macchiato"><br>
+<img src="./minimal/catppuccin-mocha-logo.png" title="catppuccin-mocha-logo"><br>
+<img src="./minimal/dark-cat.png" title="dark-cat"><br>
+<img src="./minimal/mocha-saturn.jpg" title="mocha-saturn"><br>
 </details>
 
 
