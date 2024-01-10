@@ -1,4 +1,0 @@
-
-
-## DigitalArt
-<details><summary></summary>

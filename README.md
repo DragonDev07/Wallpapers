@@ -1,53 +1,215 @@
+# Directory Structure
 
-# just a bunch of wallpapers.....
+## Catppuccin
 
+<details><summary>Mocha</summary>
 
-## DigitalArt
-<details><summary></summary>
-<img src="DigitalArt/MountainRuins.jpg" title="MountainRuins"><br>
-<img src="DigitalArt/AncientTempleValley.jpg" title="AncientTempleValley"><br>
-<img src="DigitalArt/GrayTemple.jpg" title="GrayTemple"><br>
-<img src="DigitalArt/Harmony.jpg" title="Harmony"><br>
-<img src="DigitalArt/KoiMoon.jpg" title="KoiMoon"><br>
-<img src="DigitalArt/LostBetween.jpg" title="LostBetween"><br>
-<img src="DigitalArt/PinkForestTemple.jpg" title="PinkForestTemple"><br>
-<img src="DigitalArt/BlackHole.jpg" title="BlackHole"><br>
-<img src="DigitalArt/Stardust.jpg" title="Stardust"><br>
-<img src="DigitalArt/Tranquility.jpg" title="Tranquility"><br>
-<img src="DigitalArt/PeacefulPurpleTrees.jpg" title="PeacefulPurpleTrees"><br>
+**Tags:** `CatppuccinMocha` `ArchLinux`
+
+![CatppuccinMocha-ArchLinux](./Catppuccin/Mocha/CatppuccinMocha-ArchLinux.png)
+
+**Tags:** `CatppuccinMocha` `Ghost`
+
+![CatppuccinMocha-Ghost](./Catppuccin/Mocha/CatppuccinMocha-Ghost.png)
+
+**Tags:** `CatppuccinMocha` `Logo`
+
+![CatppuccinMocha-Logo](./Catppuccin/Mocha/CatppuccinMocha-Logo.png)
+
+**Tags:** `CatppuccinMocha` `Rocket`
+
+![CatppuccinMocha-Rocket](./Catppuccin/Mocha/CatppuccinMocha-Rocket.png)
+
+**Tags:** `CatppuccinMocha` `Saturn`
+
+![CatppuccinMocha-Saturn](./Catppuccin/Mocha/CatppuccinMocha-Saturn.jpg)
+
+**Tags:** `CatppuccinMocha` `Space`
+
+![CatppuccinMocha-Space](./Catppuccin/Mocha/CatppuccinMocha-Space.png)
+
+**Tags:** `CatppuccinMocha` `Error`
+
+![CatppuccinMocha-Error](./Catppuccin/Mocha/CatppuccinMocha-Error.jpg)
+
+**Tags:** `CatppuccinMocha` `NightTimeCity`
+
+![CatppuccinMocha-NightTimeCity](./Catppuccin/Mocha/CatppuccinMocha-NightTimeCity.png)
+
+**Tags:** `CatppuccinMocha` `Planets`
+
+![CatppuccinMocha-Planets](./Catppuccin/Mocha/CatppuccinMocha-Planets.png)
+
 </details>
 
+<details><summary>Macchiato</summary>
 
-## Dynamic
-<details><summary></summary>
+**Tags:** `CatppuccinMacchiato` `Ghost`
+
+![CatppuccinMacchiato-Ghost](./Catppuccin/Macchiato/CatppuccinMacchiato-Ghost.png)
+
+**Tags:** `CatppuccinMacchiato` `Saturn`
+
+![CatppuccinMacchiato-Saturn](./Catppuccin/Macchiato/CatppuccinMacchiato-Saturn.jpg)
+
 </details>
 
+<details><summary>Frappe</summary>
 
-## Minimal
-<details><summary></summary>
-<img src="Minimal/CatppuccinMocha-Logo.png" title="CatppuccinMocha-Logo"><br>
-<img src="Minimal/CattpuccinMocha-Error.jpg" title="CattpuccinMocha-Error"><br>
-<img src="Minimal/DarkCat.png" title="DarkCat"><br>
-<img src="Minimal/DesertNight.png" title="DesertNight"><br>
-<img src="Minimal/CatppuccinMocha-Saturn.jpg" title="CatppuccinMocha-Saturn"><br>
-<img src="Minimal/CatppuccinMacchiato-Saturn.jpg" title="CatppuccinMacchiato-Saturn"><br>
-<img src="Minimal/CatppuccinMocha-ArchLinux.png" title="CatppuccinMocha-ArchLinux"><br>
-<img src="Minimal/CatppuccinMocha-Space.png" title="CatppuccinMocha-Space"><br>
-<img src="Minimal/CatppuccinMocha-Rocket.png" title="CatppuccinMocha-Rocket"><br>
-<img src="Minimal/CatppuccinFrappe-Pacman.png" title="CatppuccinFrappe-Pacman"><br>
-<img src="Minimal/CatppuccinMacchiato-Ghost.png" title="CatppuccinMacchiato-Ghost"><br>
-<img src="Minimal/CatppuccinFrappe-Ghost.png" title="CatppuccinFrappe-Ghost"><br>
-<img src="Minimal/CatppuccinMocha-Ghost.png" title="CatppuccinMocha-Ghost"><br>
-<img src="Minimal/FullColor-Waves.png" title="FullColor-Waves"><br>
-<img src="Minimal/Teal-Blobs.png" title="Teal-Blobs"><br>
-<img src="Minimal/RightColored-Waves.png" title="RightColored-Waves"><br>
-<img src="Minimal/Waves.png" title="Waves"><br>
+**Tags:** `CatppuccinFrappe` `Ghost`
+
+![CatppuccinFrappe-Ghost](./Catppuccin/Frappe/CatppuccinFrappe-Ghost.png)
+
+**Tags:** `CatppuccinFrappe` `Pacman`
+
+![CatppuccinFrappe-Pacman](./Catppuccin/Frappe/CatppuccinFrappe-Pacman.png)
+
 </details>
 
+<details><summary>Latte</summary>
 
-## PixelArt
-<details><summary></summary>
-<img src="PixelArt/CatppuccinMocha-NightTimeCity.png" title="CatppuccinMocha-NightTimeCity"><br>
 </details>
 
-</p>
+</details>
+
+## Unthemed
+
+<details><summary>Cute</summary>
+
+**Tags:** `RamenFox`
+
+![RamenFox](./Unthemed/Cute/RamenFox.png)
+
+</details>
+
+<details><summary>Minimal</summary>
+
+**Tags:** `DarkCat`
+
+![DarkCat](./Unthemed/Minimal/DarkCat.png)
+
+**Tags:** `DesertNight`
+
+![DesertNight](./Unthemed/Minimal/DesertNight.png)
+
+**Tags:** `FullColor` `Waves`
+
+![FullColor-Waves](./Unthemed/Minimal/FullColor-Waves.png)
+
+**Tags:** `RightColored` `Waves`
+
+![RightColored-Waves](./Unthemed/Minimal/RightColored-Waves.png)
+
+**Tags:** `Teal` `Blobs`
+
+![Teal-Blobs](./Unthemed/Minimal/Teal-Blobs.png)
+
+**Tags:** `Waves`
+
+![Waves](./Unthemed/Minimal/Waves.png)
+
+**Tags:** `Alfa`
+
+![Alfa](./Unthemed/Minimal/Alfa.png)
+
+</details>
+
+<details><summary>PixelArt</summary>
+
+**Tags:** `Town`
+
+![Town](./Unthemed/PixelArt/Town.jpg)
+
+</details>
+
+<details><summary>Scenery</summary>
+
+**Tags:** `AncientTempleValley`
+
+![AncientTempleValley](./Unthemed/Scenery/AncientTempleValley.jpg)
+
+**Tags:** `BlackHole`
+
+![BlackHole](./Unthemed/Scenery/BlackHole.jpg)
+
+**Tags:** `CherryBlossom` `Waterfalls`
+
+![CherryBlossom-Waterfalls](./Unthemed/Scenery/CherryBlossom-Waterfalls.jpg)
+
+**Tags:** `GrayTemple`
+
+![GrayTemple](./Unthemed/Scenery/GrayTemple.jpg)
+
+**Tags:** `Harmony`
+
+![Harmony](./Unthemed/Scenery/Harmony.jpg)
+
+**Tags:** `KoiMoon`
+
+![KoiMoon](./Unthemed/Scenery/KoiMoon.jpg)
+
+**Tags:** `LostBetween`
+
+![LostBetween](./Unthemed/Scenery/LostBetween.jpg)
+
+**Tags:** `MountainRuins`
+
+![MountainRuins](./Unthemed/Scenery/MountainRuins.jpg)
+
+**Tags:** `PeacefulPurpleTrees`
+
+![PeacefulPurpleTrees](./Unthemed/Scenery/PeacefulPurpleTrees.jpg)
+
+**Tags:** `PinkForestTemple`
+
+![PinkForestTemple](./Unthemed/Scenery/PinkForestTemple.jpg)
+
+**Tags:** `Stardust`
+
+![Stardust](./Unthemed/Scenery/Stardust.jpg)
+
+**Tags:** `Tranquility`
+
+![Tranquility](./Unthemed/Scenery/Tranquility.jpg)
+
+**Tags:** `VillageLandscape`
+
+![VillageLandscape](./Unthemed/Scenery/VillageLandscape.png)
+
+**Tags:** `SunsetTown`
+
+![SunsetTown](./Unthemed/Scenery/SunsetTown.jpg)
+
+**Tags:** `FantasyForest`
+
+![FantasyForest](./Unthemed/Scenery/FantasyForest.png)
+
+</details>
+
+</details>
+
+## Nord
+<details><summary>Nord</summary>
+
+**Tags:** `Nord` `ArchChan`
+
+![Nord-ArchChan](./Nord/Nord-ArchChan.png)
+
+**Tags:** `Nord` `Knight`
+
+![Nord-Knight](./Nord/Nord-Knight.jpg)
+
+**Tags:** `Nord` `Planets`
+
+![Nord-Planets](./Nord/Nord-Planets.jpg)
+
+**Tags:** `Nord` `Astronauts`
+
+![Nord-Astronauts](./Nord/Nord-Astronauts.png)
+
+**Tags:** `Nord` `Orbit`
+
+![Nord-Orbit](./Nord/Nord-Orbit.png)
+
+</details>
+</details>
