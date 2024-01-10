@@ -14,6 +14,7 @@
 <img src="DigitalArt/BlackHole.jpg" title="BlackHole"><br>
 <img src="DigitalArt/Stardust.jpg" title="Stardust"><br>
 <img src="DigitalArt/Tranquility.jpg" title="Tranquility"><br>
+<img src="DigitalArt/PeacefulPurpleTrees.jpg" title="PeacefulPurpleTrees"><br>
 </details>
 
 
@@ -30,6 +31,17 @@
 <img src="Minimal/DesertNight.png" title="DesertNight"><br>
 <img src="Minimal/CatppuccinMocha-Saturn.jpg" title="CatppuccinMocha-Saturn"><br>
 <img src="Minimal/CatppuccinMacchiato-Saturn.jpg" title="CatppuccinMacchiato-Saturn"><br>
+<img src="Minimal/CatppuccinMocha-ArchLinux.png" title="CatppuccinMocha-ArchLinux"><br>
+<img src="Minimal/CatppuccinMocha-Space.png" title="CatppuccinMocha-Space"><br>
+<img src="Minimal/CatppuccinMocha-Rocket.png" title="CatppuccinMocha-Rocket"><br>
+<img src="Minimal/CatppuccinFrappe-Pacman.png" title="CatppuccinFrappe-Pacman"><br>
+<img src="Minimal/CatppuccinMacchiato-Ghost.png" title="CatppuccinMacchiato-Ghost"><br>
+<img src="Minimal/CatppuccinFrappe-Ghost.png" title="CatppuccinFrappe-Ghost"><br>
+<img src="Minimal/CatppuccinMocha-Ghost.png" title="CatppuccinMocha-Ghost"><br>
+<img src="Minimal/FullColor-Waves.png" title="FullColor-Waves"><br>
+<img src="Minimal/Teal-Blobs.png" title="Teal-Blobs"><br>
+<img src="Minimal/RightColored-Waves.png" title="RightColored-Waves"><br>
+<img src="Minimal/Waves.png" title="Waves"><br>
 </details>
 
 
