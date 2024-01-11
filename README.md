@@ -81,6 +81,14 @@
 
 ![RamenFox](./Unthemed/Cute/RamenFox.png)
 
+**Tags:** `Cute` `PinkDino`
+
+![Cute-PinkDino](./Unthemed/Cute/Cute-PinkDino.png)
+
+**Tags:** `CutePokemon`
+
+![CutePokemon](./Unthemed/Cute/CutePokemon.jpg)
+
 </details>
 
 <details><summary>Minimal</summary>
@@ -201,17 +209,33 @@
 
 ![MountainsPoly](./Unthemed/Scenery/MountainsPoly.jpg)
 
+**Tags:** `FishingStars`
+
+![FishingStars](./Unthemed/Scenery/FishingStars.jpg)
+
+**Tags:** `Couple` `Sunset` `Gif`
+
+![Couple-Sunset-Gif](./Unthemed/Scenery/Couple-Sunset-Gif.gif)
+
 </details>
 
 <details><summary>Other</summary>
 
-**Tags:** `LofiGirl`
-
-![LofiGirl](./Unthemed/Other/LofiGirl.jpg)
-
 **Tags:** `Pink` `Katana`
 
 ![Pink-Katana](./Unthemed/Other/Pink-Katana.png)
+
+</details>
+
+<details><summary>Character</summary>
+
+**Tags:** `LofiGirl`
+
+![LofiGirl](./Unthemed/Character/LofiGirl.jpg)
+
+**Tags:** `AnimeChillPool`
+
+![AnimeChillPool](./Unthemed/Character/AnimeChillPool.png)
 
 </details>
 
@@ -240,6 +264,22 @@
 **Tags:** `Nord` `Orbit`
 
 ![Nord-Orbit](./Nord/Nord-Orbit.png)
+
+**Tags:** `Nord` `SpaceStation` `Astronaut`
+
+![Nord-SpaceStation-Astronaut](./Nord/Nord-SpaceStation-Astronaut.png)
+
+**Tags:** `Nord` `Gif` `Futuristic`
+
+![Nord-Gif-Futuristic](./Nord/Nord-Gif-Futuristic.gif)
+
+**Tags:** `Nord` `Pacman`
+
+![Nord-Pacman](./Nord/Nord-Pacman.png)
+
+**Tags:** `Nord` `Underwater`
+
+![Nord-Underwater](./Nord/Nord-Underwater.png)
 
 </details>
 
