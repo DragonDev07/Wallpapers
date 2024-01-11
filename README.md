@@ -219,6 +219,8 @@
 
 ## Nord
 
+<details><summary>Nord</summary>
+
 **Tags:** `Nord` `ArchChan`
 
 ![Nord-ArchChan](./Nord/Nord-ArchChan.png)

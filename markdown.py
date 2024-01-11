@@ -19,9 +19,16 @@ def create_readme(directory):
         # Ignore hidden directories and directories without image files
         if top_level_dir.startswith('.') or not has_image_files(top_level_path):
             continue
-
+        
         # Add heading for top-level directories
         readme_content += f"## {top_level_dir}\n\n"
+
+        # Check if top-level directory has subdirectories
+        has_subdirectories = any(os.path.isdir(os.path.join(top_level_path, d)) for d in os.listdir(top_level_path))
+
+        # If top-level directory doesn't have subdirectories, add dropdown
+        if not has_subdirectories:
+            readme_content += f"<details><summary>{top_level_dir}</summary>\n\n"
 
         # Walk through the directory structure
         for root, dirs, files in os.walk(top_level_path):
