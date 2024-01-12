@@ -239,6 +239,18 @@
 
 </details>
 
+<details><summary>StudioGhibli</summary>
+
+**Tags:** `HowlsMovingCastle`
+
+![HowlsMovingCastle](./Unthemed/StudioGhibli/HowlsMovingCastle.jpg)
+
+**Tags:** `Minimal` `Totoro`
+
+![Minimal-Totoro](./Unthemed/StudioGhibli/Minimal-Totoro.jpg)
+
+</details>
+
 </details>
 
 ## Nord
