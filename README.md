@@ -41,6 +41,10 @@
 
 ![CatppuccinMocha-Planets](./Catppuccin/Mocha/CatppuccinMocha-Planets.png)
 
+**Tags:** `CatppuccinMocha` `Minimal` `FoxLogo`
+
+![CatppuccinMocha-Minimal-FoxLogo](./Catppuccin/Mocha/CatppuccinMocha-Minimal-FoxLogo.png)
+
 </details>
 
 <details><summary>Macchiato</summary>
@@ -121,6 +125,10 @@
 
 ![Alfa](./Unthemed/Minimal/Alfa.png)
 
+**Tags:** `Wide` `Orbit`
+
+![Wide-Orbit](./Unthemed/Minimal/Wide-Orbit.png)
+
 </details>
 
 <details><summary>PixelArt</summary>
@@ -140,10 +148,6 @@
 **Tags:** `BlackHole`
 
 ![BlackHole](./Unthemed/Scenery/BlackHole.jpg)
-
-**Tags:** `CherryBlossom` `Waterfalls`
-
-![CherryBlossom-Waterfalls](./Unthemed/Scenery/CherryBlossom-Waterfalls.jpg)
 
 **Tags:** `GrayTemple`
 
@@ -217,6 +221,10 @@
 
 ![Couple-Sunset-Gif](./Unthemed/Scenery/Couple-Sunset-Gif.gif)
 
+**Tags:** `CherryBlossom` `Scorched` `Earth`
+
+![CherryBlossom-Scorched-Earth](./Unthemed/Scenery/CherryBlossom-Scorched-Earth.jpg)
+
 </details>
 
 <details><summary>Other</summary>
@@ -272,10 +280,6 @@
 **Tags:** `Nord` `Astronauts`
 
 ![Nord-Astronauts](./Nord/Nord-Astronauts.png)
-
-**Tags:** `Nord` `Orbit`
-
-![Nord-Orbit](./Nord/Nord-Orbit.png)
 
 **Tags:** `Nord` `SpaceStation` `Astronaut`
 
