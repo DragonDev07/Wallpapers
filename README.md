@@ -225,6 +225,22 @@
 
 ![CherryBlossom-Scorched-Earth](./Unthemed/Scenery/CherryBlossom-Scorched-Earth.jpg)
 
+**Tags:** `Autumn` `Tree`
+
+![Autumn-Tree](./Unthemed/Scenery/Autumn-Tree.png)
+
+**Tags:** `Colorful` `Mountains`
+
+![Colorful-Mountains](./Unthemed/Scenery/Colorful-Mountains.png)
+
+**Tags:** `Sunset` `Landscape`
+
+![Sunset-Landscape](./Unthemed/Scenery/Sunset-Landscape.png)
+
+**Tags:** `Sunset` `Mountains` `Landscape`
+
+![Sunset-Mountains-Landscape](./Unthemed/Scenery/Sunset-Mountains-Landscape.png)
+
 </details>
 
 <details><summary>Other</summary>
