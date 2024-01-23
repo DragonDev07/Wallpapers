@@ -45,6 +45,46 @@
 
 ![CatppuccinMocha-Minimal-FoxLogo](./Catppuccin/Mocha/CatppuccinMocha-Minimal-FoxLogo.png)
 
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `AsteroidMiner`
+
+![CatppuccinMocha-Kurzgesagt-AsteroidMiner](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-AsteroidMiner.png)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `BlackHole1`
+
+![CatppuccinMocha-Kurzgesagt-BlackHole1](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-BlackHole1.png)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `BlackHole2`
+
+![CatppuccinMocha-Kurzgesagt-BlackHole2](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-BlackHole2.png)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `BlackHole3`
+
+![CatppuccinMocha-Kurzgesagt-BlackHole3](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-BlackHole3.png)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `CloudyQuasar1`
+
+![CatppuccinMocha-Kurzgesagt-CloudyQuasar1](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-CloudyQuasar1.png)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `CloudyQuasar2`
+
+![CatppuccinMocha-Kurzgesagt-CloudyQuasar2](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-CloudyQuasar2.png)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `Galaxy2`
+
+![CatppuccinMocha-Kurzgesagt-Galaxy2](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-Galaxy2.png)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `Galaxy3`
+
+![CatppuccinMocha-Kurzgesagt-Galaxy3](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-Galaxy3.png)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `RingedEarth`
+
+![CatppuccinMocha-Kurzgesagt-RingedEarth](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-RingedEarth.jpg)
+
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `StellarPhenomenon`
+
+![CatppuccinMocha-Kurzgesagt-StellarPhenomenon](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-StellarPhenomenon.png)
+
 </details>
 
 <details><summary>Macchiato</summary>
@@ -136,6 +176,18 @@
 **Tags:** `Town`
 
 ![Town](./Unthemed/PixelArt/Town.jpg)
+
+**Tags:** `CliffEdge` `Waterfall` `Houses`
+
+![CliffEdge-Waterfall-Houses](./Unthemed/PixelArt/CliffEdge-Waterfall-Houses.jpg)
+
+**Tags:** `PowerLines` `Moon` `Nighttime`
+
+![PowerLines-Moon-Nighttime](./Unthemed/PixelArt/PowerLines-Moon-Nighttime.png)
+
+**Tags:** `WaterReflection` `City` `Nighttime`
+
+![WaterReflection-City-Nighttime](./Unthemed/PixelArt/WaterReflection-City-Nighttime.png)
 
 </details>
 
