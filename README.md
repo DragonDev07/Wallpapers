@@ -293,6 +293,10 @@
 
 ![Sunset-Mountains-Landscape](./Unthemed/Scenery/Sunset-Mountains-Landscape.png)
 
+**Tags:** `YinYang` `KoiFish`
+
+![YinYang-KoiFish](./Unthemed/Scenery/YinYang-KoiFish.png)
+
 </details>
 
 <details><summary>Other</summary>
