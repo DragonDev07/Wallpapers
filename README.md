@@ -85,6 +85,10 @@
 
 ![CatppuccinMocha-Kurzgesagt-StellarPhenomenon](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-StellarPhenomenon.png)
 
+**Tags:** `CatppuccinMocha` `Wave`
+
+![CatppuccinMocha-Wave](./Catppuccin/Mocha/CatppuccinMocha-Wave.png)
+
 </details>
 
 <details><summary>Macchiato</summary>
