@@ -301,6 +301,14 @@
 
 ![YinYang-KoiFish](./Unthemed/Scenery/YinYang-KoiFish.png)
 
+**Tags:** `Sakura` `Island`
+
+![Sakura-Island](./Unthemed/Scenery/Sakura-Island.jpg)
+
+**Tags:** `CherryBlossom` `Plain`
+
+![CherryBlossom-Plain](./Unthemed/Scenery/CherryBlossom-Plain.jpg)
+
 </details>
 
 <details><summary>Other</summary>
