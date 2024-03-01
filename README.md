@@ -309,6 +309,14 @@
 
 ![CherryBlossom-Plain](./Unthemed/Scenery/CherryBlossom-Plain.jpg)
 
+**Tags:** `Painted` `LateSummerEvening` `Kotor`
+
+![Painted-LateSummerEvening-Kotor](./Unthemed/Scenery/Painted-LateSummerEvening-Kotor.png)
+
+**Tags:** `Sweeping` `Landscape` `Eagle`
+
+![Sweeping-Landscape-Eagle](./Unthemed/Scenery/Sweeping-Landscape-Eagle.png)
+
 </details>
 
 <details><summary>Other</summary>
