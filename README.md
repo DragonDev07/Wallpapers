@@ -193,6 +193,10 @@
 
 ![WaterReflection-City-Nighttime](./Unthemed/PixelArt/WaterReflection-City-Nighttime.png)
 
+**Tags:** `ChineseStreet` `Dragon`
+
+![ChineseStreet-Dragon](./Unthemed/PixelArt/ChineseStreet-Dragon.gif)
+
 </details>
 
 <details><summary>Scenery</summary>
@@ -316,6 +320,10 @@
 **Tags:** `Sweeping` `Landscape` `Eagle`
 
 ![Sweeping-Landscape-Eagle](./Unthemed/Scenery/Sweeping-Landscape-Eagle.png)
+
+**Tags:** `AboveTheClouds`
+
+![AboveTheClouds](./Unthemed/Scenery/AboveTheClouds.jpg)
 
 </details>
 
