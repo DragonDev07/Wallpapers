@@ -3,6 +3,30 @@
 
 ## Catppuccin
 
+<details><summary>Frappe</summary>
+
+**Tags:** `CatppuccinFrappe` `Ghost`
+
+![CatppuccinFrappe-Ghost](./Catppuccin/Frappe/CatppuccinFrappe-Ghost.png)
+
+**Tags:** `CatppuccinFrappe` `Pacman`
+
+![CatppuccinFrappe-Pacman](./Catppuccin/Frappe/CatppuccinFrappe-Pacman.png)
+
+</details>
+
+<details><summary>Macchiato</summary>
+
+**Tags:** `CatppuccinMacchiato` `Ghost`
+
+![CatppuccinMacchiato-Ghost](./Catppuccin/Macchiato/CatppuccinMacchiato-Ghost.png)
+
+**Tags:** `CatppuccinMacchiato` `Saturn`
+
+![CatppuccinMacchiato-Saturn](./Catppuccin/Macchiato/CatppuccinMacchiato-Saturn.png)
+
+</details>
+
 <details><summary>Mocha</summary>
 
 **Tags:** `CatppuccinMocha` `ArchLinux`
@@ -12,38 +36,6 @@
 **Tags:** `CatppuccinMocha` `Ghost`
 
 ![CatppuccinMocha-Ghost](./Catppuccin/Mocha/CatppuccinMocha-Ghost.png)
-
-**Tags:** `CatppuccinMocha` `Logo`
-
-![CatppuccinMocha-Logo](./Catppuccin/Mocha/CatppuccinMocha-Logo.png)
-
-**Tags:** `CatppuccinMocha` `Rocket`
-
-![CatppuccinMocha-Rocket](./Catppuccin/Mocha/CatppuccinMocha-Rocket.png)
-
-**Tags:** `CatppuccinMocha` `Saturn`
-
-![CatppuccinMocha-Saturn](./Catppuccin/Mocha/CatppuccinMocha-Saturn.jpg)
-
-**Tags:** `CatppuccinMocha` `Space`
-
-![CatppuccinMocha-Space](./Catppuccin/Mocha/CatppuccinMocha-Space.png)
-
-**Tags:** `CatppuccinMocha` `Error`
-
-![CatppuccinMocha-Error](./Catppuccin/Mocha/CatppuccinMocha-Error.jpg)
-
-**Tags:** `CatppuccinMocha` `NightTimeCity`
-
-![CatppuccinMocha-NightTimeCity](./Catppuccin/Mocha/CatppuccinMocha-NightTimeCity.png)
-
-**Tags:** `CatppuccinMocha` `Planets`
-
-![CatppuccinMocha-Planets](./Catppuccin/Mocha/CatppuccinMocha-Planets.png)
-
-**Tags:** `CatppuccinMocha` `Minimal` `FoxLogo`
-
-![CatppuccinMocha-Minimal-FoxLogo](./Catppuccin/Mocha/CatppuccinMocha-Minimal-FoxLogo.png)
 
 **Tags:** `CatppuccinMocha` `Kurzgesagt` `AsteroidMiner`
 
@@ -77,69 +69,127 @@
 
 ![CatppuccinMocha-Kurzgesagt-Galaxy3](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-Galaxy3.png)
 
-**Tags:** `CatppuccinMocha` `Kurzgesagt` `RingedEarth`
-
-![CatppuccinMocha-Kurzgesagt-RingedEarth](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-RingedEarth.jpg)
-
 **Tags:** `CatppuccinMocha` `Kurzgesagt` `StellarPhenomenon`
 
 ![CatppuccinMocha-Kurzgesagt-StellarPhenomenon](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-StellarPhenomenon.png)
+
+**Tags:** `CatppuccinMocha` `Logo`
+
+![CatppuccinMocha-Logo](./Catppuccin/Mocha/CatppuccinMocha-Logo.png)
+
+**Tags:** `CatppuccinMocha` `Minimal` `FoxLogo`
+
+![CatppuccinMocha-Minimal-FoxLogo](./Catppuccin/Mocha/CatppuccinMocha-Minimal-FoxLogo.png)
+
+**Tags:** `CatppuccinMocha` `NightTimeCity`
+
+![CatppuccinMocha-NightTimeCity](./Catppuccin/Mocha/CatppuccinMocha-NightTimeCity.png)
+
+**Tags:** `CatppuccinMocha` `Planets`
+
+![CatppuccinMocha-Planets](./Catppuccin/Mocha/CatppuccinMocha-Planets.png)
+
+**Tags:** `CatppuccinMocha` `Rocket`
+
+![CatppuccinMocha-Rocket](./Catppuccin/Mocha/CatppuccinMocha-Rocket.png)
+
+**Tags:** `CatppuccinMocha` `Space`
+
+![CatppuccinMocha-Space](./Catppuccin/Mocha/CatppuccinMocha-Space.png)
 
 **Tags:** `CatppuccinMocha` `Wave`
 
 ![CatppuccinMocha-Wave](./Catppuccin/Mocha/CatppuccinMocha-Wave.png)
 
-</details>
+**Tags:** `CatppuccinMocha` `Error`
 
-<details><summary>Macchiato</summary>
+![CatppuccinMocha-Error](./Catppuccin/Mocha/CatppuccinMocha-Error.png)
 
-**Tags:** `CatppuccinMacchiato` `Ghost`
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `RingedEarth`
 
-![CatppuccinMacchiato-Ghost](./Catppuccin/Macchiato/CatppuccinMacchiato-Ghost.png)
+![CatppuccinMocha-Kurzgesagt-RingedEarth](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-RingedEarth.png)
 
-**Tags:** `CatppuccinMacchiato` `Saturn`
+**Tags:** `CatppuccinMocha` `Saturn`
 
-![CatppuccinMacchiato-Saturn](./Catppuccin/Macchiato/CatppuccinMacchiato-Saturn.jpg)
-
-</details>
-
-<details><summary>Frappe</summary>
-
-**Tags:** `CatppuccinFrappe` `Ghost`
-
-![CatppuccinFrappe-Ghost](./Catppuccin/Frappe/CatppuccinFrappe-Ghost.png)
-
-**Tags:** `CatppuccinFrappe` `Pacman`
-
-![CatppuccinFrappe-Pacman](./Catppuccin/Frappe/CatppuccinFrappe-Pacman.png)
+![CatppuccinMocha-Saturn](./Catppuccin/Mocha/CatppuccinMocha-Saturn.png)
 
 </details>
 
-<details><summary>Latte</summary>
-
 </details>
+
+## Nord
+
+<details><summary>Nord</summary>
+
+**Tags:** `Nord` `ArchChan`
+
+![Nord-ArchChan](./Nord/Nord-ArchChan.png)
+
+**Tags:** `Nord` `Astronauts`
+
+![Nord-Astronauts](./Nord/Nord-Astronauts.png)
+
+**Tags:** `Nord` `Gif` `Futuristic`
+
+![Nord-Gif-Futuristic](./Nord/Nord-Gif-Futuristic.gif)
+
+**Tags:** `Nord` `Pacman`
+
+![Nord-Pacman](./Nord/Nord-Pacman.png)
+
+**Tags:** `Nord` `SpaceStation` `Astronaut`
+
+![Nord-SpaceStation-Astronaut](./Nord/Nord-SpaceStation-Astronaut.png)
+
+**Tags:** `Nord` `Underwater`
+
+![Nord-Underwater](./Nord/Nord-Underwater.png)
+
+**Tags:** `Nord` `Knight`
+
+![Nord-Knight](./Nord/Nord-Knight.png)
+
+**Tags:** `Nord` `Planets`
+
+![Nord-Planets](./Nord/Nord-Planets.png)
 
 </details>
 
 ## Unthemed
 
+<details><summary>Character</summary>
+
+**Tags:** `AnimeChillPool`
+
+![AnimeChillPool](./Unthemed/Character/AnimeChillPool.png)
+
+**Tags:** `LofiGirl`
+
+![LofiGirl](./Unthemed/Character/LofiGirl.png)
+
+</details>
+
 <details><summary>Cute</summary>
-
-**Tags:** `RamenFox`
-
-![RamenFox](./Unthemed/Cute/RamenFox.png)
 
 **Tags:** `Cute` `PinkDino`
 
 ![Cute-PinkDino](./Unthemed/Cute/Cute-PinkDino.png)
 
+**Tags:** `RamenFox`
+
+![RamenFox](./Unthemed/Cute/RamenFox.png)
+
 **Tags:** `CutePokemon`
 
-![CutePokemon](./Unthemed/Cute/CutePokemon.jpg)
+![CutePokemon](./Unthemed/Cute/CutePokemon.png)
 
 </details>
 
 <details><summary>Minimal</summary>
+
+**Tags:** `Alfa`
+
+![Alfa](./Unthemed/Minimal/Alfa.png)
 
 **Tags:** `DarkCat`
 
@@ -165,165 +215,9 @@
 
 ![Waves](./Unthemed/Minimal/Waves.png)
 
-**Tags:** `Alfa`
-
-![Alfa](./Unthemed/Minimal/Alfa.png)
-
 **Tags:** `Wide` `Orbit`
 
 ![Wide-Orbit](./Unthemed/Minimal/Wide-Orbit.png)
-
-</details>
-
-<details><summary>PixelArt</summary>
-
-**Tags:** `Town`
-
-![Town](./Unthemed/PixelArt/Town.jpg)
-
-**Tags:** `CliffEdge` `Waterfall` `Houses`
-
-![CliffEdge-Waterfall-Houses](./Unthemed/PixelArt/CliffEdge-Waterfall-Houses.jpg)
-
-**Tags:** `PowerLines` `Moon` `Nighttime`
-
-![PowerLines-Moon-Nighttime](./Unthemed/PixelArt/PowerLines-Moon-Nighttime.png)
-
-**Tags:** `WaterReflection` `City` `Nighttime`
-
-![WaterReflection-City-Nighttime](./Unthemed/PixelArt/WaterReflection-City-Nighttime.png)
-
-**Tags:** `ChineseStreet` `Dragon`
-
-![ChineseStreet-Dragon](./Unthemed/PixelArt/ChineseStreet-Dragon.gif)
-
-</details>
-
-<details><summary>Scenery</summary>
-
-**Tags:** `AncientTempleValley`
-
-![AncientTempleValley](./Unthemed/Scenery/AncientTempleValley.jpg)
-
-**Tags:** `BlackHole`
-
-![BlackHole](./Unthemed/Scenery/BlackHole.jpg)
-
-**Tags:** `GrayTemple`
-
-![GrayTemple](./Unthemed/Scenery/GrayTemple.jpg)
-
-**Tags:** `Harmony`
-
-![Harmony](./Unthemed/Scenery/Harmony.jpg)
-
-**Tags:** `KoiMoon`
-
-![KoiMoon](./Unthemed/Scenery/KoiMoon.jpg)
-
-**Tags:** `LostBetween`
-
-![LostBetween](./Unthemed/Scenery/LostBetween.jpg)
-
-**Tags:** `MountainRuins`
-
-![MountainRuins](./Unthemed/Scenery/MountainRuins.jpg)
-
-**Tags:** `PeacefulPurpleTrees`
-
-![PeacefulPurpleTrees](./Unthemed/Scenery/PeacefulPurpleTrees.jpg)
-
-**Tags:** `PinkForestTemple`
-
-![PinkForestTemple](./Unthemed/Scenery/PinkForestTemple.jpg)
-
-**Tags:** `Stardust`
-
-![Stardust](./Unthemed/Scenery/Stardust.jpg)
-
-**Tags:** `Tranquility`
-
-![Tranquility](./Unthemed/Scenery/Tranquility.jpg)
-
-**Tags:** `VillageLandscape`
-
-![VillageLandscape](./Unthemed/Scenery/VillageLandscape.png)
-
-**Tags:** `SunsetTown`
-
-![SunsetTown](./Unthemed/Scenery/SunsetTown.jpg)
-
-**Tags:** `FantasyForest`
-
-![FantasyForest](./Unthemed/Scenery/FantasyForest.png)
-
-**Tags:** `CartoonSunset`
-
-![CartoonSunset](./Unthemed/Scenery/CartoonSunset.jpg)
-
-**Tags:** `Japanese` `RiverRain`
-
-![Japanese-RiverRain](./Unthemed/Scenery/Japanese-RiverRain.png)
-
-**Tags:** `Japanese` `RoundArchway`
-
-![Japanese-RoundArchway](./Unthemed/Scenery/Japanese-RoundArchway.png)
-
-**Tags:** `MountainsPoly`
-
-![MountainsPoly](./Unthemed/Scenery/MountainsPoly.jpg)
-
-**Tags:** `FishingStars`
-
-![FishingStars](./Unthemed/Scenery/FishingStars.jpg)
-
-**Tags:** `Couple` `Sunset` `Gif`
-
-![Couple-Sunset-Gif](./Unthemed/Scenery/Couple-Sunset-Gif.gif)
-
-**Tags:** `CherryBlossom` `Scorched` `Earth`
-
-![CherryBlossom-Scorched-Earth](./Unthemed/Scenery/CherryBlossom-Scorched-Earth.jpg)
-
-**Tags:** `Autumn` `Tree`
-
-![Autumn-Tree](./Unthemed/Scenery/Autumn-Tree.png)
-
-**Tags:** `Colorful` `Mountains`
-
-![Colorful-Mountains](./Unthemed/Scenery/Colorful-Mountains.png)
-
-**Tags:** `Sunset` `Landscape`
-
-![Sunset-Landscape](./Unthemed/Scenery/Sunset-Landscape.png)
-
-**Tags:** `Sunset` `Mountains` `Landscape`
-
-![Sunset-Mountains-Landscape](./Unthemed/Scenery/Sunset-Mountains-Landscape.png)
-
-**Tags:** `YinYang` `KoiFish`
-
-![YinYang-KoiFish](./Unthemed/Scenery/YinYang-KoiFish.png)
-
-**Tags:** `Sakura` `Island`
-
-![Sakura-Island](./Unthemed/Scenery/Sakura-Island.jpg)
-
-**Tags:** `CherryBlossom` `Plain`
-
-![CherryBlossom-Plain](./Unthemed/Scenery/CherryBlossom-Plain.jpg)
-
-**Tags:** `Painted` `LateSummerEvening` `Kotor`
-
-![Painted-LateSummerEvening-Kotor](./Unthemed/Scenery/Painted-LateSummerEvening-Kotor.png)
-
-**Tags:** `Sweeping` `Landscape` `Eagle`
-
-![Sweeping-Landscape-Eagle](./Unthemed/Scenery/Sweeping-Landscape-Eagle.png)
-
-**Tags:** `AboveTheClouds`
-
-![AboveTheClouds](./Unthemed/Scenery/AboveTheClouds.jpg)
 
 </details>
 
@@ -335,15 +229,155 @@
 
 </details>
 
-<details><summary>Character</summary>
+<details><summary>PixelArt</summary>
 
-**Tags:** `LofiGirl`
+**Tags:** `ChineseStreet` `Dragon`
 
-![LofiGirl](./Unthemed/Character/LofiGirl.jpg)
+![ChineseStreet-Dragon](./Unthemed/PixelArt/ChineseStreet-Dragon.gif)
 
-**Tags:** `AnimeChillPool`
+**Tags:** `PowerLines` `Moon` `Nighttime`
 
-![AnimeChillPool](./Unthemed/Character/AnimeChillPool.png)
+![PowerLines-Moon-Nighttime](./Unthemed/PixelArt/PowerLines-Moon-Nighttime.png)
+
+**Tags:** `WaterReflection` `City` `Nighttime`
+
+![WaterReflection-City-Nighttime](./Unthemed/PixelArt/WaterReflection-City-Nighttime.png)
+
+**Tags:** `CliffEdge` `Waterfall` `Houses`
+
+![CliffEdge-Waterfall-Houses](./Unthemed/PixelArt/CliffEdge-Waterfall-Houses.png)
+
+**Tags:** `Town`
+
+![Town](./Unthemed/PixelArt/Town.png)
+
+</details>
+
+<details><summary>Scenery</summary>
+
+**Tags:** `Autumn` `Tree`
+
+![Autumn-Tree](./Unthemed/Scenery/Autumn-Tree.png)
+
+**Tags:** `Colorful` `Mountains`
+
+![Colorful-Mountains](./Unthemed/Scenery/Colorful-Mountains.png)
+
+**Tags:** `Couple` `Sunset` `Gif`
+
+![Couple-Sunset-Gif](./Unthemed/Scenery/Couple-Sunset-Gif.gif)
+
+**Tags:** `FantasyForest`
+
+![FantasyForest](./Unthemed/Scenery/FantasyForest.png)
+
+**Tags:** `Japanese` `RiverRain`
+
+![Japanese-RiverRain](./Unthemed/Scenery/Japanese-RiverRain.png)
+
+**Tags:** `Japanese` `RoundArchway`
+
+![Japanese-RoundArchway](./Unthemed/Scenery/Japanese-RoundArchway.png)
+
+**Tags:** `Painted` `LateSummerEvening` `Kotor`
+
+![Painted-LateSummerEvening-Kotor](./Unthemed/Scenery/Painted-LateSummerEvening-Kotor.png)
+
+**Tags:** `Sunset` `Landscape`
+
+![Sunset-Landscape](./Unthemed/Scenery/Sunset-Landscape.png)
+
+**Tags:** `Sunset` `Mountains` `Landscape`
+
+![Sunset-Mountains-Landscape](./Unthemed/Scenery/Sunset-Mountains-Landscape.png)
+
+**Tags:** `Sweeping` `Landscape` `Eagle`
+
+![Sweeping-Landscape-Eagle](./Unthemed/Scenery/Sweeping-Landscape-Eagle.png)
+
+**Tags:** `VillageLandscape`
+
+![VillageLandscape](./Unthemed/Scenery/VillageLandscape.png)
+
+**Tags:** `YinYang` `KoiFish`
+
+![YinYang-KoiFish](./Unthemed/Scenery/YinYang-KoiFish.png)
+
+**Tags:** `AboveTheClouds`
+
+![AboveTheClouds](./Unthemed/Scenery/AboveTheClouds.png)
+
+**Tags:** `AncientTempleValley`
+
+![AncientTempleValley](./Unthemed/Scenery/AncientTempleValley.png)
+
+**Tags:** `BlackHole`
+
+![BlackHole](./Unthemed/Scenery/BlackHole.png)
+
+**Tags:** `CartoonSunset`
+
+![CartoonSunset](./Unthemed/Scenery/CartoonSunset.png)
+
+**Tags:** `CherryBlossom` `Plain`
+
+![CherryBlossom-Plain](./Unthemed/Scenery/CherryBlossom-Plain.png)
+
+**Tags:** `CherryBlossom` `Scorched` `Earth`
+
+![CherryBlossom-Scorched-Earth](./Unthemed/Scenery/CherryBlossom-Scorched-Earth.png)
+
+**Tags:** `FishingStars`
+
+![FishingStars](./Unthemed/Scenery/FishingStars.png)
+
+**Tags:** `GrayTemple`
+
+![GrayTemple](./Unthemed/Scenery/GrayTemple.png)
+
+**Tags:** `Harmony`
+
+![Harmony](./Unthemed/Scenery/Harmony.png)
+
+**Tags:** `KoiMoon`
+
+![KoiMoon](./Unthemed/Scenery/KoiMoon.png)
+
+**Tags:** `LostBetween`
+
+![LostBetween](./Unthemed/Scenery/LostBetween.png)
+
+**Tags:** `MountainRuins`
+
+![MountainRuins](./Unthemed/Scenery/MountainRuins.png)
+
+**Tags:** `MountainsPoly`
+
+![MountainsPoly](./Unthemed/Scenery/MountainsPoly.png)
+
+**Tags:** `PeacefulPurpleTrees`
+
+![PeacefulPurpleTrees](./Unthemed/Scenery/PeacefulPurpleTrees.png)
+
+**Tags:** `PinkForestTemple`
+
+![PinkForestTemple](./Unthemed/Scenery/PinkForestTemple.png)
+
+**Tags:** `Sakura` `Island`
+
+![Sakura-Island](./Unthemed/Scenery/Sakura-Island.png)
+
+**Tags:** `Stardust`
+
+![Stardust](./Unthemed/Scenery/Stardust.png)
+
+**Tags:** `SunsetTown`
+
+![SunsetTown](./Unthemed/Scenery/SunsetTown.png)
+
+**Tags:** `Tranquility`
+
+![Tranquility](./Unthemed/Scenery/Tranquility.png)
 
 </details>
 
@@ -351,51 +385,13 @@
 
 **Tags:** `HowlsMovingCastle`
 
-![HowlsMovingCastle](./Unthemed/StudioGhibli/HowlsMovingCastle.jpg)
+![HowlsMovingCastle](./Unthemed/StudioGhibli/HowlsMovingCastle.png)
 
 **Tags:** `Minimal` `Totoro`
 
-![Minimal-Totoro](./Unthemed/StudioGhibli/Minimal-Totoro.jpg)
+![Minimal-Totoro](./Unthemed/StudioGhibli/Minimal-Totoro.png)
 
 </details>
-
-</details>
-
-## Nord
-
-<details><summary>Nord</summary>
-
-**Tags:** `Nord` `ArchChan`
-
-![Nord-ArchChan](./Nord/Nord-ArchChan.png)
-
-**Tags:** `Nord` `Knight`
-
-![Nord-Knight](./Nord/Nord-Knight.jpg)
-
-**Tags:** `Nord` `Planets`
-
-![Nord-Planets](./Nord/Nord-Planets.jpg)
-
-**Tags:** `Nord` `Astronauts`
-
-![Nord-Astronauts](./Nord/Nord-Astronauts.png)
-
-**Tags:** `Nord` `SpaceStation` `Astronaut`
-
-![Nord-SpaceStation-Astronaut](./Nord/Nord-SpaceStation-Astronaut.png)
-
-**Tags:** `Nord` `Gif` `Futuristic`
-
-![Nord-Gif-Futuristic](./Nord/Nord-Gif-Futuristic.gif)
-
-**Tags:** `Nord` `Pacman`
-
-![Nord-Pacman](./Nord/Nord-Pacman.png)
-
-**Tags:** `Nord` `Underwater`
-
-![Nord-Underwater](./Nord/Nord-Underwater.png)
 
 </details>
 
