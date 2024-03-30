@@ -175,10 +175,6 @@
 
 ![Cute-PinkDino](./Unthemed/Cute/Cute-PinkDino.png)
 
-**Tags:** `RamenFox`
-
-![RamenFox](./Unthemed/Cute/RamenFox.png)
-
 **Tags:** `CutePokemon`
 
 ![CutePokemon](./Unthemed/Cute/CutePokemon.png)
@@ -218,14 +214,6 @@
 **Tags:** `Wide` `Orbit`
 
 ![Wide-Orbit](./Unthemed/Minimal/Wide-Orbit.png)
-
-</details>
-
-<details><summary>Other</summary>
-
-**Tags:** `Pink` `Katana`
-
-![Pink-Katana](./Unthemed/Other/Pink-Katana.png)
 
 </details>
 
