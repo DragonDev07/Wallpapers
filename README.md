@@ -33,6 +33,10 @@
 
 ![CatppuccinMocha-ArchLinux](./Catppuccin/Mocha/CatppuccinMocha-ArchLinux.png)
 
+**Tags:** `CatppuccinMocha` `Error`
+
+![CatppuccinMocha-Error](./Catppuccin/Mocha/CatppuccinMocha-Error.png)
+
 **Tags:** `CatppuccinMocha` `Ghost`
 
 ![CatppuccinMocha-Ghost](./Catppuccin/Mocha/CatppuccinMocha-Ghost.png)
@@ -69,6 +73,10 @@
 
 ![CatppuccinMocha-Kurzgesagt-Galaxy3](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-Galaxy3.png)
 
+**Tags:** `CatppuccinMocha` `Kurzgesagt` `RingedEarth`
+
+![CatppuccinMocha-Kurzgesagt-RingedEarth](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-RingedEarth.png)
+
 **Tags:** `CatppuccinMocha` `Kurzgesagt` `StellarPhenomenon`
 
 ![CatppuccinMocha-Kurzgesagt-StellarPhenomenon](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-StellarPhenomenon.png)
@@ -93,6 +101,10 @@
 
 ![CatppuccinMocha-Rocket](./Catppuccin/Mocha/CatppuccinMocha-Rocket.png)
 
+**Tags:** `CatppuccinMocha` `Saturn`
+
+![CatppuccinMocha-Saturn](./Catppuccin/Mocha/CatppuccinMocha-Saturn.png)
+
 **Tags:** `CatppuccinMocha` `Space`
 
 ![CatppuccinMocha-Space](./Catppuccin/Mocha/CatppuccinMocha-Space.png)
@@ -100,18 +112,6 @@
 **Tags:** `CatppuccinMocha` `Wave`
 
 ![CatppuccinMocha-Wave](./Catppuccin/Mocha/CatppuccinMocha-Wave.png)
-
-**Tags:** `CatppuccinMocha` `Error`
-
-![CatppuccinMocha-Error](./Catppuccin/Mocha/CatppuccinMocha-Error.png)
-
-**Tags:** `CatppuccinMocha` `Kurzgesagt` `RingedEarth`
-
-![CatppuccinMocha-Kurzgesagt-RingedEarth](./Catppuccin/Mocha/CatppuccinMocha-Kurzgesagt-RingedEarth.png)
-
-**Tags:** `CatppuccinMocha` `Saturn`
-
-![CatppuccinMocha-Saturn](./Catppuccin/Mocha/CatppuccinMocha-Saturn.png)
 
 </details>
 
@@ -133,9 +133,17 @@
 
 ![Nord-Gif-Futuristic](./Nord/Nord-Gif-Futuristic.gif)
 
+**Tags:** `Nord` `Knight`
+
+![Nord-Knight](./Nord/Nord-Knight.png)
+
 **Tags:** `Nord` `Pacman`
 
 ![Nord-Pacman](./Nord/Nord-Pacman.png)
+
+**Tags:** `Nord` `Planets`
+
+![Nord-Planets](./Nord/Nord-Planets.png)
 
 **Tags:** `Nord` `SpaceStation` `Astronaut`
 
@@ -144,14 +152,6 @@
 **Tags:** `Nord` `Underwater`
 
 ![Nord-Underwater](./Nord/Nord-Underwater.png)
-
-**Tags:** `Nord` `Knight`
-
-![Nord-Knight](./Nord/Nord-Knight.png)
-
-**Tags:** `Nord` `Planets`
-
-![Nord-Planets](./Nord/Nord-Planets.png)
 
 </details>
 
@@ -223,149 +223,109 @@
 
 ![ChineseStreet-Dragon](./Unthemed/PixelArt/ChineseStreet-Dragon.gif)
 
-**Tags:** `PowerLines` `Moon` `Nighttime`
-
-![PowerLines-Moon-Nighttime](./Unthemed/PixelArt/PowerLines-Moon-Nighttime.png)
-
-**Tags:** `WaterReflection` `City` `Nighttime`
-
-![WaterReflection-City-Nighttime](./Unthemed/PixelArt/WaterReflection-City-Nighttime.png)
-
 **Tags:** `CliffEdge` `Waterfall` `Houses`
 
 ![CliffEdge-Waterfall-Houses](./Unthemed/PixelArt/CliffEdge-Waterfall-Houses.png)
+
+**Tags:** `PowerLines` `Moon` `Nighttime`
+
+![PowerLines-Moon-Nighttime](./Unthemed/PixelArt/PowerLines-Moon-Nighttime.png)
 
 **Tags:** `Town`
 
 ![Town](./Unthemed/PixelArt/Town.png)
 
+**Tags:** `WaterReflection` `City` `Nighttime`
+
+![WaterReflection-City-Nighttime](./Unthemed/PixelArt/WaterReflection-City-Nighttime.png)
+
 </details>
 
 <details><summary>Scenery</summary>
 
-**Tags:** `Autumn` `Tree`
+**Tags:** `1`
 
-![Autumn-Tree](./Unthemed/Scenery/Autumn-Tree.png)
+![1](./Unthemed/Scenery/1.png)
 
-**Tags:** `Colorful` `Mountains`
+**Tags:** `2`
 
-![Colorful-Mountains](./Unthemed/Scenery/Colorful-Mountains.png)
+![2](./Unthemed/Scenery/2.png)
 
-**Tags:** `Couple` `Sunset` `Gif`
+**Tags:** `3`
 
-![Couple-Sunset-Gif](./Unthemed/Scenery/Couple-Sunset-Gif.gif)
+![3](./Unthemed/Scenery/3.png)
 
-**Tags:** `FantasyForest`
+**Tags:** `4`
 
-![FantasyForest](./Unthemed/Scenery/FantasyForest.png)
+![4](./Unthemed/Scenery/4.png)
 
-**Tags:** `Japanese` `RiverRain`
+**Tags:** `5`
 
-![Japanese-RiverRain](./Unthemed/Scenery/Japanese-RiverRain.png)
+![5](./Unthemed/Scenery/5.png)
 
-**Tags:** `Japanese` `RoundArchway`
+**Tags:** `6`
 
-![Japanese-RoundArchway](./Unthemed/Scenery/Japanese-RoundArchway.png)
+![6](./Unthemed/Scenery/6.png)
 
-**Tags:** `Painted` `LateSummerEvening` `Kotor`
+**Tags:** `7`
 
-![Painted-LateSummerEvening-Kotor](./Unthemed/Scenery/Painted-LateSummerEvening-Kotor.png)
+![7](./Unthemed/Scenery/7.png)
 
-**Tags:** `Sunset` `Landscape`
+**Tags:** `8`
 
-![Sunset-Landscape](./Unthemed/Scenery/Sunset-Landscape.png)
+![8](./Unthemed/Scenery/8.png)
 
-**Tags:** `Sunset` `Mountains` `Landscape`
+**Tags:** `9`
 
-![Sunset-Mountains-Landscape](./Unthemed/Scenery/Sunset-Mountains-Landscape.png)
+![9](./Unthemed/Scenery/9.png)
 
-**Tags:** `Sweeping` `Landscape` `Eagle`
+**Tags:** `10`
 
-![Sweeping-Landscape-Eagle](./Unthemed/Scenery/Sweeping-Landscape-Eagle.png)
+![10](./Unthemed/Scenery/10.png)
 
-**Tags:** `VillageLandscape`
+**Tags:** `11`
 
-![VillageLandscape](./Unthemed/Scenery/VillageLandscape.png)
+![11](./Unthemed/Scenery/11.png)
 
-**Tags:** `YinYang` `KoiFish`
+**Tags:** `12`
 
-![YinYang-KoiFish](./Unthemed/Scenery/YinYang-KoiFish.png)
+![12](./Unthemed/Scenery/12.png)
 
-**Tags:** `AboveTheClouds`
+**Tags:** `13`
 
-![AboveTheClouds](./Unthemed/Scenery/AboveTheClouds.png)
+![13](./Unthemed/Scenery/13.png)
 
-**Tags:** `AncientTempleValley`
+**Tags:** `14`
 
-![AncientTempleValley](./Unthemed/Scenery/AncientTempleValley.png)
+![14](./Unthemed/Scenery/14.png)
 
-**Tags:** `BlackHole`
+**Tags:** `15`
 
-![BlackHole](./Unthemed/Scenery/BlackHole.png)
+![15](./Unthemed/Scenery/15.png)
 
-**Tags:** `CartoonSunset`
+**Tags:** `16`
 
-![CartoonSunset](./Unthemed/Scenery/CartoonSunset.png)
+![16](./Unthemed/Scenery/16.png)
 
-**Tags:** `CherryBlossom` `Plain`
+**Tags:** `17`
 
-![CherryBlossom-Plain](./Unthemed/Scenery/CherryBlossom-Plain.png)
+![17](./Unthemed/Scenery/17.png)
 
-**Tags:** `CherryBlossom` `Scorched` `Earth`
+**Tags:** `18`
 
-![CherryBlossom-Scorched-Earth](./Unthemed/Scenery/CherryBlossom-Scorched-Earth.png)
+![18](./Unthemed/Scenery/18.png)
 
-**Tags:** `FishingStars`
+**Tags:** `19`
 
-![FishingStars](./Unthemed/Scenery/FishingStars.png)
+![19](./Unthemed/Scenery/19.png)
 
-**Tags:** `GrayTemple`
+**Tags:** `20`
 
-![GrayTemple](./Unthemed/Scenery/GrayTemple.png)
+![20](./Unthemed/Scenery/20.png)
 
-**Tags:** `Harmony`
+**Tags:** `21`
 
-![Harmony](./Unthemed/Scenery/Harmony.png)
-
-**Tags:** `KoiMoon`
-
-![KoiMoon](./Unthemed/Scenery/KoiMoon.png)
-
-**Tags:** `LostBetween`
-
-![LostBetween](./Unthemed/Scenery/LostBetween.png)
-
-**Tags:** `MountainRuins`
-
-![MountainRuins](./Unthemed/Scenery/MountainRuins.png)
-
-**Tags:** `MountainsPoly`
-
-![MountainsPoly](./Unthemed/Scenery/MountainsPoly.png)
-
-**Tags:** `PeacefulPurpleTrees`
-
-![PeacefulPurpleTrees](./Unthemed/Scenery/PeacefulPurpleTrees.png)
-
-**Tags:** `PinkForestTemple`
-
-![PinkForestTemple](./Unthemed/Scenery/PinkForestTemple.png)
-
-**Tags:** `Sakura` `Island`
-
-![Sakura-Island](./Unthemed/Scenery/Sakura-Island.png)
-
-**Tags:** `Stardust`
-
-![Stardust](./Unthemed/Scenery/Stardust.png)
-
-**Tags:** `SunsetTown`
-
-![SunsetTown](./Unthemed/Scenery/SunsetTown.png)
-
-**Tags:** `Tranquility`
-
-![Tranquility](./Unthemed/Scenery/Tranquility.png)
+![21](./Unthemed/Scenery/21.png)
 
 </details>
 
