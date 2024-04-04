@@ -325,6 +325,10 @@
 
 ![21](./Unthemed/Scenery/21.png)
 
+**Tags:** `22`
+
+![22](./Unthemed/Scenery/22.png)
+
 </details>
 
 <details><summary>StudioGhibli</summary>
