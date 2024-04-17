@@ -247,38 +247,6 @@
 
 ![1](./Unthemed/Scenery/1.png)
 
-**Tags:** `2`
-
-![2](./Unthemed/Scenery/2.png)
-
-**Tags:** `3`
-
-![3](./Unthemed/Scenery/3.png)
-
-**Tags:** `4`
-
-![4](./Unthemed/Scenery/4.png)
-
-**Tags:** `5`
-
-![5](./Unthemed/Scenery/5.png)
-
-**Tags:** `6`
-
-![6](./Unthemed/Scenery/6.png)
-
-**Tags:** `7`
-
-![7](./Unthemed/Scenery/7.png)
-
-**Tags:** `8`
-
-![8](./Unthemed/Scenery/8.png)
-
-**Tags:** `9`
-
-![9](./Unthemed/Scenery/9.png)
-
 **Tags:** `10`
 
 ![10](./Unthemed/Scenery/10.png)
@@ -319,6 +287,10 @@
 
 ![19](./Unthemed/Scenery/19.png)
 
+**Tags:** `2`
+
+![2](./Unthemed/Scenery/2.png)
+
 **Tags:** `20`
 
 ![20](./Unthemed/Scenery/20.png)
@@ -331,6 +303,34 @@
 
 ![22](./Unthemed/Scenery/22.png)
 
+**Tags:** `3`
+
+![3](./Unthemed/Scenery/3.png)
+
+**Tags:** `4`
+
+![4](./Unthemed/Scenery/4.png)
+
+**Tags:** `5`
+
+![5](./Unthemed/Scenery/5.png)
+
+**Tags:** `6`
+
+![6](./Unthemed/Scenery/6.png)
+
+**Tags:** `7`
+
+![7](./Unthemed/Scenery/7.png)
+
+**Tags:** `8`
+
+![8](./Unthemed/Scenery/8.png)
+
+**Tags:** `9`
+
+![9](./Unthemed/Scenery/9.png)
+
 </details>
 
 <details><summary>StudioGhibli</summary>
@@ -342,6 +342,26 @@
 **Tags:** `Minimal` `Totoro`
 
 ![Minimal-Totoro](./Unthemed/StudioGhibli/Minimal-Totoro.png)
+
+</details>
+
+<details><summary>Galaxy</summary>
+
+**Tags:** `1`
+
+![1](./Unthemed/Galaxy/1.png)
+
+**Tags:** `2`
+
+![2](./Unthemed/Galaxy/2.png)
+
+**Tags:** `3`
+
+![3](./Unthemed/Galaxy/3.png)
+
+**Tags:** `4`
+
+![4](./Unthemed/Galaxy/4.png)
 
 </details>
 
