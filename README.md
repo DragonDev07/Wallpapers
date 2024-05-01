@@ -181,6 +181,26 @@
 
 </details>
 
+<details><summary>Galaxy</summary>
+
+**Tags:** `1`
+
+![1](./Unthemed/Galaxy/1.png)
+
+**Tags:** `2`
+
+![2](./Unthemed/Galaxy/2.png)
+
+**Tags:** `3`
+
+![3](./Unthemed/Galaxy/3.png)
+
+**Tags:** `4`
+
+![4](./Unthemed/Galaxy/4.png)
+
+</details>
+
 <details><summary>Minimal</summary>
 
 **Tags:** `Alfa`
@@ -331,6 +351,10 @@
 
 ![9](./Unthemed/Scenery/9.png)
 
+**Tags:** `23`
+
+![23](./Unthemed/Scenery/23.png)
+
 </details>
 
 <details><summary>StudioGhibli</summary>
@@ -342,26 +366,6 @@
 **Tags:** `Minimal` `Totoro`
 
 ![Minimal-Totoro](./Unthemed/StudioGhibli/Minimal-Totoro.png)
-
-</details>
-
-<details><summary>Galaxy</summary>
-
-**Tags:** `1`
-
-![1](./Unthemed/Galaxy/1.png)
-
-**Tags:** `2`
-
-![2](./Unthemed/Galaxy/2.png)
-
-**Tags:** `3`
-
-![3](./Unthemed/Galaxy/3.png)
-
-**Tags:** `4`
-
-![4](./Unthemed/Galaxy/4.png)
 
 </details>
 
