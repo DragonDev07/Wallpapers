@@ -117,6 +117,10 @@
 
 ![CatppuccinMocha-Wave](./Catppuccin/Mocha/CatppuccinMocha-Wave.png)
 
+**Tags:** `CatppuccinMocha` `Topography`
+
+![CatppuccinMocha-Topography](./Catppuccin/Mocha/CatppuccinMocha-Topography.png)
+
 </details>
 
 </details>
@@ -153,6 +157,18 @@
 
 ![Nord-Underwater](./Nord/Nord-Underwater.png)
 
+**Tags:** `Nord` `Forest` `Firewatch`
+
+![Nord-Forest-Firewatch](./Nord/Nord-Forest-Firewatch.png)
+
+**Tags:** `Nord` `Vector` `Mechaical` `Bird`
+
+![Nord-Vector-Mechaical-Bird](./Nord/Nord-Vector-Mechaical-Bird.png)
+
+**Tags:** `Nord` `Vector` `Clockwork` `Astronomy`
+
+![Nord-Vector-Clockwork-Astronomy](./Nord/Nord-Vector-Clockwork-Astronomy.png)
+
 </details>
 
 ## Unthemed
@@ -166,6 +182,10 @@
 **Tags:** `LofiGirl`
 
 ![LofiGirl](./Unthemed/Character/LofiGirl.png)
+
+**Tags:** `Anime` `Dragon` `Illustration`
+
+![Anime-Dragon-Illustration](./Unthemed/Character/Anime-Dragon-Illustration.png)
 
 </details>
 
@@ -319,9 +339,9 @@
 
 ![21](./Unthemed/Scenery/21.png)
 
-**Tags:** `22`
+**Tags:** `23`
 
-![22](./Unthemed/Scenery/22.png)
+![23](./Unthemed/Scenery/23.png)
 
 **Tags:** `3`
 
@@ -351,9 +371,13 @@
 
 ![9](./Unthemed/Scenery/9.png)
 
-**Tags:** `23`
+**Tags:** `22`
 
-![23](./Unthemed/Scenery/23.png)
+![22](./Unthemed/Scenery/22.png)
+
+**Tags:** `24`
+
+![24](./Unthemed/Scenery/24.png)
 
 </details>
 
