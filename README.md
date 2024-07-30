@@ -279,6 +279,10 @@
 
 ![WaterReflection-City-Nighttime](./Unthemed/PixelArt/WaterReflection-City-Nighttime.png)
 
+**Tags:** `CityStreets` `Pixel`
+
+![CityStreets-Pixel](./Unthemed/PixelArt/CityStreets-Pixel.gif)
+
 </details>
 
 <details><summary>Scenery</summary>
