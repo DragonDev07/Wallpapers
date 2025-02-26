@@ -283,6 +283,10 @@
 
 ![CityStreets-Pixel](./Unthemed/PixelArt/CityStreets-Pixel.gif)
 
+**Tags:** `Cozy` `Rooftop`
+
+![Cozy-Rooftop](./Unthemed/PixelArt/Cozy-Rooftop.png)
+
 </details>
 
 <details><summary>Scenery</summary>
@@ -394,6 +398,22 @@
 **Tags:** `Minimal` `Totoro`
 
 ![Minimal-Totoro](./Unthemed/StudioGhibli/Minimal-Totoro.png)
+
+</details>
+
+<details><summary>Ori</summary>
+
+**Tags:** `Ori` `Naru`
+
+![Ori-Naru](./Unthemed/Ori/Ori-Naru.png)
+
+**Tags:** `Ori` `LostInTheStorm`
+
+![Ori-LostInTheStorm](./Unthemed/Ori/Ori-LostInTheStorm.png)
+
+**Tags:** `Ori` `WillOfTheWisps` `Flying`
+
+![Ori-WillOfTheWisps-Flying](./Unthemed/Ori/Ori-WillOfTheWisps-Flying.png)
 
 </details>
 
